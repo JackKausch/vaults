@@ -1,0 +1,1 @@
+Johannes Tauler was [[Meister Eckhart]]'s chief disciple.  

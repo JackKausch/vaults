@@ -7,11 +7,8 @@
         "id": "7f500935a6be7ba8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "German Mysticism/Meister Eckhart.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Mysticism/Meister Eckhart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +85,10 @@
   "active": "7f500935a6be7ba8",
   "lastOpenFiles": [
     "German Mysticism/Meister Eckhart.md",
+    "German Mysticism/Henry Suso.md",
+    "German Mysticism/Johannes Tauler.md",
+    "German Mysticism/Beguines.md",
+    "German Mysticism/Friends of God.md",
     "German Mysticism/Mechthild of Magdeburg.md",
     "German Mysticism/Marguerite Porete.md"
   ]

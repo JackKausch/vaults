@@ -1,0 +1,1 @@
+The Beguines were a [[Holy Order]] formed outside the Church of Women who sought spiritual salvation in intentional communities. The male version of the order was the [[Beghards]]. The Beguines were part of the [[Rhineland Mystics]]

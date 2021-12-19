@@ -1,0 +1,1 @@
+The Friends of God of the Oberland were a mysterious group of [[Rhineland Mystics]]. Not much is known about them or if they actually existed.

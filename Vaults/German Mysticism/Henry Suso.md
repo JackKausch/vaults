@@ -1,0 +1,1 @@
+Henry Suso was another of [[Meister Eckhart]]'s disciples.
