@@ -1,0 +1,1 @@
+Meister Eckhart is considered the founder of [[German Mysticism]]. However, this is not entirely accurate, as many of his teachings were influenced by the [[Beguines]] and the [[Friends of God]]. In additon, posterity remembered his disciple [[Johannes Tauler]] better than him. Eckhart was mostly forgotten until rediscovered by [[Romantics]] in the 19th century.

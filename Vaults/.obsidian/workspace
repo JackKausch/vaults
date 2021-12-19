@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "German Mysticism/Untitled.md",
+            "file": "German Mysticism/Marguerite Porete.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Mysticism/Untitled.md",
+                "file": "German Mysticism/Marguerite Porete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "7f500935a6be7ba8",
   "lastOpenFiles": [
-    "German Mysticism/Untitled.md"
+    "German Mysticism/Marguerite Porete.md",
+    "German Mysticism/Meister Eckhart.md"
   ]
 }
