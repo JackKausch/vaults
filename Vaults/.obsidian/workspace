@@ -7,8 +7,11 @@
         "id": "7f500935a6be7ba8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "German Mysticism/Jan van Ruusbroec.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "German Mysticism/Jan van Ruusbroec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,7 @@
   },
   "active": "7f500935a6be7ba8",
   "lastOpenFiles": [
+    "German Mysticism/Jan van Ruusbroec.md",
     "German Mysticism/Hadewijch of Brabant.md",
     "German Mysticism/Templars.md",
     "German Mysticism/Theologia Germanica.md",
@@ -92,7 +97,6 @@
     "German Mysticism/Marguerite Porete.md",
     "German Mysticism/Johannes Tauler.md",
     "German Mysticism/Henry Suso.md",
-    "German Mysticism/Beguines.md",
-    "German Mysticism/Friends of God.md"
+    "German Mysticism/Beguines.md"
   ]
 }

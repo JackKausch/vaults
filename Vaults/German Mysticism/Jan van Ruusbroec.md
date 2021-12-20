@@ -1,0 +1,1 @@
+Ruusbroec was a Dutch mystic who harmonized his mysticism with the Church and the teaching of the trinity. He is unique for taking the [[Via Positiva]] as far as it could go, and carrying a mysticism of the [[Holy Trinity]] to the furthest point possible. Evelyn Underhill wrote a famous book about him.
