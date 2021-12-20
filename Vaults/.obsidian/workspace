@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "German Mysticism/Jan van Ruusbroec.md",
+            "file": "German Mysticism/Books/Theologia Germanica.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Mysticism/Jan van Ruusbroec.md",
+                "file": "German Mysticism/Books/Theologia Germanica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "7f500935a6be7ba8",
   "lastOpenFiles": [
-    "German Mysticism/Jan van Ruusbroec.md",
-    "German Mysticism/Hadewijch of Brabant.md",
-    "German Mysticism/Templars.md",
-    "German Mysticism/Theologia Germanica.md",
-    "German Mysticism/Meister Eckhart.md",
-    "German Mysticism/Mechthild of Magdeburg.md",
-    "German Mysticism/Marguerite Porete.md",
-    "German Mysticism/Johannes Tauler.md",
-    "German Mysticism/Henry Suso.md",
-    "German Mysticism/Beguines.md"
+    "German Mysticism/Books/Theologia Germanica.md",
+    "German Mysticism/Institutions/Beguines.md",
+    "German Mysticism/People/Hadewijch of Brabant.md",
+    "German Mysticism/People/Jan van Ruusbroec.md",
+    "German Mysticism/Institutions/Templars.md",
+    "German Mysticism/People/Meister Eckhart.md",
+    "German Mysticism/People/Mechthild of Magdeburg.md",
+    "German Mysticism/People/Marguerite Porete.md",
+    "German Mysticism/People/Johannes Tauler.md",
+    "German Mysticism/People/Henry Suso.md"
   ]
 }
