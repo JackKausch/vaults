@@ -1,1 +1,1 @@
-Marguerite Porete was burned at the stake as a pretext for burning the [[Templars]]. Her book [[The Mirror of Simple Souls]] had an influence on [[Meister Eckhart]]. She was a [[Beguines|Beguine]].
+Marguerite Porete was burned at the stake as a pretext for burning the [[Templars]]. Her book [[The Mirror of Simple Souls]] had an influence on [[Meister Eckhart]]. She was a [[Beguines]].

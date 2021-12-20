@@ -1,1 +1,1 @@
-Mechthild of Magdeburg was a [[Beguines|Beguine]] who wrote a book called [[The Flowing Light of the Godhead]] which was an influence on [[Meister Eckhart]] through the [[Friends of God]] of the Oberland.
+Mechthild of Magdeburg was a [[Beguines]] who wrote a book called [[The Flowing Light of the Godhead]] which was an influence on [[Meister Eckhart]] through the [[Friends of God]] of the Oberland.
