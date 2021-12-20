@@ -1,0 +1,1 @@
+This mysterious, anonymous document is attributed to the [[Friends of God]]. According to the medieval preface to the book, its author was a knight of the [[Teutonic Order]] a [[Holy Order]]. This book had an influence on [[Martin Luther]] and the [[Reformation]]. It is an important book of speculative mysticism.

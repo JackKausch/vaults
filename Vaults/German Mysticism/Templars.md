@@ -1,0 +1,1 @@
+The Templars were a [[Holy Order]], who were wrongfully burned at the stake during the 14th century. They are not a part of German Mysticism. The knights of the[[Teutonic Order]] are more closely related. However, they are connected because [[Marguerite Porete]] was burned at the stake a precedent for the burning of the Templars. 
