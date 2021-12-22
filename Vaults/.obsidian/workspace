@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "German Mysticism/Books/Theologia Germanica.md",
+            "file": "German Mysticism/People/Psuedo-Dionysius the Areopagite.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Mysticism/Books/Theologia Germanica.md",
+                "file": "German Mysticism/People/Psuedo-Dionysius the Areopagite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "7f500935a6be7ba8",
   "lastOpenFiles": [
-    "German Mysticism/Books/Theologia Germanica.md",
+    "German Mysticism/People/Psuedo-Dionysius the Areopagite.md",
+    "German Mysticism/People/Meister Eckhart.md",
+    "German Mysticism/Primary Sources/Theologia Germanica.md",
     "German Mysticism/Institutions/Beguines.md",
     "German Mysticism/People/Hadewijch of Brabant.md",
     "German Mysticism/People/Jan van Ruusbroec.md",
     "German Mysticism/Institutions/Templars.md",
-    "German Mysticism/People/Meister Eckhart.md",
     "German Mysticism/People/Mechthild of Magdeburg.md",
     "German Mysticism/People/Marguerite Porete.md",
-    "German Mysticism/People/Johannes Tauler.md",
-    "German Mysticism/People/Henry Suso.md"
+    "German Mysticism/People/Johannes Tauler.md"
   ]
 }
