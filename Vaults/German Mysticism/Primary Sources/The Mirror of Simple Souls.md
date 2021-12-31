@@ -1,0 +1,1 @@
+Soon I shall begin reading The Mirror of Simple Souls by [[Marguerite Porete]]. I will put my notes here.
