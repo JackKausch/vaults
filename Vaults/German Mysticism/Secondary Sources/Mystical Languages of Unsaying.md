@@ -1,0 +1,1 @@
+A book by Michael A. Sells. It concerns Plotinus, Eriugena, Ibn Arabi, Marguerite Porete, and Meister Eckhart. It deals with [Apophasis]. 
