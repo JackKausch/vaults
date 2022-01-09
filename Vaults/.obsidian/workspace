@@ -7,12 +7,8 @@
         "id": "7f500935a6be7ba8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "German Mysticism/Primary Sources/The Mirror of Simple Souls.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "German Mysticism/Primary Sources/The Mirror of Simple Souls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +84,8 @@
   },
   "active": "7f500935a6be7ba8",
   "lastOpenFiles": [
-    "German Mysticism/Primary Sources/The Mirror of Simple Souls.md",
     "German Mysticism/Secondary Sources/Mystical Languages of Unsaying.md",
+    "German Mysticism/Primary Sources/The Mirror of Simple Souls.md",
     "German Mysticism/Primary Sources/Celestial Hierarchies.md",
     "German Mysticism/People/Psuedo-Dionysius the Areopagite.md",
     "German Mysticism/People/Meister Eckhart.md",
