@@ -1,0 +1,1 @@
+The Heresy of the Free Spirit is what [[Marguerite Porete]] was accused of and became associated with.
